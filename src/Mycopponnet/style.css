@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 255, 42);
+}
+button{
+    color: black;
+    padding: 10px;
+    background-color: gold;
+    margin-right: 15px;
+    border-radius:5px;
+    font-size: 50px;
+    width: 80px;
+}
+.ashik{
+    color:red ;
+}
+.tt{
+    background-color:blue;
+}
