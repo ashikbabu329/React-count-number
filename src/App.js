@@ -4,14 +4,15 @@ import './App.css';
 // import Home from './Mycopponnet/Home';
 // import About from './Mycopponnet/About';
 // import Contact from './Mycopponnet/Contact';
-import Home from './Mycopponnet/Home';
-import styles from './Mycopponnet/style.css';
+// import Home from './Mycopponnet/Home';
+// import styles from './Mycopponnet/style.css';
+import From from './Mycopponnet/From';
 function App() {
   return (
     <div className="App">
 
-
-      <Home Count="0"/>
+<From/>
+      {/* <Home Count="0"/> */}
      {/* <nav>
        <ul>
          <li><Link to="/"></Link>Home</li>
